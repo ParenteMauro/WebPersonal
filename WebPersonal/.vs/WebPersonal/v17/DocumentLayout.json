@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\WebPersonal\\WebPersonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F78C11-A1E9-4F19-A10B-C4938B612FC7}|WebPersonal.csproj|c:\\users\\mauro\\desktop\\webpersonal\\webpersonal\\backend\\src\\model\\entity\\educationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F78C11-A1E9-4F19-A10B-C4938B612FC7}|WebPersonal.csproj|solutionrelative:backend\\src\\model\\entity\\educationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F78C11-A1E9-4F19-A10B-C4938B612FC7}|WebPersonal.csproj|c:\\users\\mauro\\desktop\\webpersonal\\webpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F78C11-A1E9-4F19-A10B-C4938B612FC7}|WebPersonal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EducationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\WebPersonal\\WebPersonal\\BackEnd\\src\\Model\\Entity\\EducationEntity.cs",
+              "RelativeDocumentMoniker": "BackEnd\\src\\Model\\Entity\\EducationEntity.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\WebPersonal\\WebPersonal\\BackEnd\\src\\Model\\Entity\\EducationEntity.cs",
+              "RelativeToolTip": "BackEnd\\src\\Model\\Entity\\EducationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:37:24.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\WebPersonal\\WebPersonal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\WebPersonal\\WebPersonal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:21:09.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
